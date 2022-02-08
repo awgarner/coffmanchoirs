@@ -12,3 +12,15 @@ My goals are:
 
 4. Have Fun!
 
+<!-- TO DO -->
+
+1. copy dublin color styles or hex codes using ipad or other tool
+
+2. Style header
+
+3. Load Nav
+
+4. Fabricate additional .html pages
+
+5. BRAINSTORM - what could it do???
+
